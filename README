@@ -1,0 +1,21 @@
+##### Copyright 2020 Baiatu Bianca (baiatu.daniela2001@gmail.com)
+
+Task 1
+	-se calculeaza suma elementelor de pe contutul hartii
+	-in timp ce se calculeaza suma se afla numarul elementelor de pe contur
+
+Task 2
+	-am construit functii pentru fiecare modificare specifica
+	-in functie de cerinta se apeleaza functia de modificare
+	-functia de modificare gaseste elementul ce trebuie inlocuit
+	-elementul gasit este plasat in matrice cu ajutorul functiei replace
+	-se afiseaza matricea modificata
+
+Task 3
+	-am folosit o matrice pentru a retine elementele nule din harta
+	-se parcurge harta folosind functia verify
+	-functia verify parcurge fiecare zona nula din harta
+	-functia verify intoarce dimensiunea gaurii negre verificate
+	-se cauta dimensiunea maxima a unei gauri negre
+	-in cazul unei noi indentari a variabilei dim_max se retin coordonatele
+	de inceput ale acelei gauri negre
